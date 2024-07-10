@@ -1,0 +1,2 @@
+# BasicStudent detail management 
+ 
