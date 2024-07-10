@@ -15,4 +15,12 @@ Delete a student record.
 Use SQLite for data persistence.
 
 
+python -m venv myenv
+
+.\myenv\Scripts\Activate.ps1
+
+pip install flask
+
+python create_table.py
+
 
